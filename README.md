@@ -11,6 +11,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![Cursor](https://img.shields.io/badge/Cursor-white?style=for-the-badge&logo=cursor&logoColor=black)](https://cursor.com)
+![Static Badge](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)  
 [![Fusion360](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
 [![Unreal](https://img.shields.io/badge/Unreal-darkred?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com)
