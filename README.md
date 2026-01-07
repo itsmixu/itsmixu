@@ -26,6 +26,7 @@
 
 ---
 
-**🤝🏻 Open to internships & collabs 🤝🏻** 
+### Hack Club Project stats:
 
+[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=20617&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackclub.com)
 </div>
