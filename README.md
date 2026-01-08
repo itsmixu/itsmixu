@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&width=500&lines=Hi%2C+I'm+mixu!;3D+Modeler+and+Printer;Game+Developer;Tech+Tinkerer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size40&pause=1000&color=F7F7F7&center=true&width=500&lines=Hi%2C+I'm+mixu!;3D+Modeler+and+Printer;Game+Developer;Tech+Tinkerer)](https://git.io/typing-svg)
 
 ---
 ### 18yo Student • Finland 🇫🇮  
@@ -25,6 +25,4 @@
 [![BambuLab](https://img.shields.io/badge/A1-green?style=for-the-badge&logo=bambulab&logoColor=white)](https://bambulab.com/products/a1)
 
 ---
-
-[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=20617&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hack+Club+Coding+Stats&layout=compact&cache_seconds=0&langs_count=4)](https://hackclub.com)
 </div>
