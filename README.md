@@ -34,6 +34,4 @@
 
 
 ![Gradient](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer&customColorList=14,18,20,22,1,3,6,7,12,20,22,24)
-
-
 </div>
