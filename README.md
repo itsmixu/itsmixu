@@ -30,6 +30,10 @@
 [![Daydream](https://img.shields.io/badge/Daydream-2nd%20Place%20(Local%20event)%2C%20Global%2012th-%237c3aed?style=for-the-badge&logo=hackclub&logoColor=white&labelColor=%234c1d95)](https://hackclub.com)
 <br>
 [![Itch.io Jams](https://img.shields.io/badge/3x%20Itch.io%20Game%20Jams-24292f?style=for-the-badge&logo=itch.io&logoColor=%23fffc00)](https://itch.io/jams)
-![HS Game Jams](https://img.shields.io/badge/4x%20High%20School%20Game%20Jams-1f6feb?style=for-the-badge)
+[![HS Game Jams](https://img.shields.io/badge/4x%20High%20School%20Game%20Jams-1f6feb?style=for-the-badge)]()
+
+
+![Gradient](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer&customColorList=14,18,20,22,1,3,6,7,12,20,22,24)
+
 
 </div>
