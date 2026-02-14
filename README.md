@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=F7F7F7&center=true&width=500&lines=Hi%2C+I'm+mixu!;3D+Modeler+and+Printer;Game+Developer;Tech+Tinkerer)](https://git.io/typing-svg)
 ---
-### 18 year old Student • Finland 🇫🇮  
+### 19 year old Student • Finland 🇫🇮  
 *Coding • 3D printing • Unity/Unreal Game dev • Tech/Hardware enthusiast*
 
 
