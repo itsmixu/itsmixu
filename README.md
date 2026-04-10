@@ -4,9 +4,9 @@
 ---
 🎓 **19** | About to graduate High School
 
-💻 **Building projects** @ Novelty Labs / **Cohort 01**
+💻 **Building projects** @ Novelty Labs **Cohort 01**
 
-🌐 **Exploring web browsing's next evolution**
+🌐 **Exploring better ways to search the web**
 
 ---
 
