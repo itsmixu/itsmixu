@@ -1,15 +1,12 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=700&color=F7F7F7&center=true&width=500&speed=10&lines=%24+whoami;Founder+in+the+making;Hackathon+winner+%F0%9F%8F%86;Curious+about+how+things+work)](https://git.io/typing-svg)
+[![Title](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=300&color=F7F7F7&center=true&width=500&speed=50&lines=%24+whoami;19yo+HS+Grad;Currently+at+a+tech+startup;Attending+hackathons;Curious+about+how+things+work)](https://git.io/typing-svg)
 
----
-**19** | HS Grad | Working at a Tech Startup 
+[![Junction x Aalto Defence](https://img.shields.io/badge/Junction%20x%20Aalto%20Defence-1st%20Place%20%F0%9F%8F%86-15803D?style=for-the-badge&labelColor=14532D)](https://hackjunction.com)
+[![Sunstead](https://img.shields.io/badge/Sunstead-4th%20Place%20%C2%B7%20Tangled-C2410C?style=for-the-badge&labelColor=7C2D12)](https://sunsteadhack.com)
 
-**Building projects** @ [STUHI](https://stuhi.org)
+[![Junction](https://img.shields.io/badge/Junction-5th%20Place%20%C2%B7%20Valio-black?style=for-the-badge&labelColor=black)](https://hackjunction.com)
+[![Supercell x Florent Ventures](https://img.shields.io/badge/Supercell%20x%20Florent%20VC-Top%204%20%C2%B7%20Infrastructure-7C3AED?style=for-the-badge&labelColor=3B0764)](https://www.florent.vc/supercell-hackathon)
 
-[![Junction x Aalto Defence](https://img.shields.io/badge/Junction%20x%20Aalto%20Defence%20Hackathon-1st%20Place%20%F0%9F%8F%86-1a3a1a?style=for-the-badge&labelColor=1a3a1a)](https://hackjunction.com)
-[![Junction](https://img.shields.io/badge/Junction%202025-5th%20Place%20--%20Valio%20Challenge-black?style=for-the-badge&labelColor=black)](https://hackjunction.com)
-
-[![Sunstead](https://img.shields.io/badge/Sunstead%202025-4th%20Place%20--%20Tangled%20Challenge-C2410C?style=for-the-badge&labelColor=7C2D12)](https://sunsteadhack.com)
-[![Supercell x Florent Ventures](https://img.shields.io/badge/Supercell%20x%20Florent%20VC%20Hackathon-Top%204-7C3AED?style=for-the-badge&labelColor=3B0764)](https://www.florent.vc/supercell-hackathon)
+_more to come..._
 </div>
